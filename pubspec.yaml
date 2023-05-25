@@ -1,0 +1,22 @@
+name: ornek_giris_ekrani
+description: A sample Flutter project
+version: 1.0.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/homepage_img_8.png
+    - assets/oua.giris.alt.resim.jpeg
+

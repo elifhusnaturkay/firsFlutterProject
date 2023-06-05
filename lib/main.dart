@@ -44,8 +44,8 @@ class LoginPage extends StatelessWidget {
                   backgroundColor: Colors.white,
                   child: Image.asset(
                     'assets/homepage_img_8.png',
-                    width: 300,
-                    height: 300,
+                    width: 100,
+                    height: 100,
                   ),
                 ),
                 SizedBox(height: 40),
